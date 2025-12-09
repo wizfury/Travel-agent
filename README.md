@@ -31,7 +31,5 @@ Builds structured day-by-day itineraries including attractions, activities, and 
 ### 🧩 Root Agent  
 Orchestrates all sub-agents, merges their outputs, and delivers a final, cohesive travel plan.
 
- 
-
-## 📂 Project Structure  
+  
 
