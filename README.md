@@ -10,7 +10,7 @@
 
 ## 📌 Overview  
 
-**Travel-agent** is an AI-driven multi-agent travel planning system written in Python.  
+**Travel-agent** is an AI-driven multi-agent travel planning system built with Google's Agent Development kit(ADK).  
 It coordinates multiple specialized “agents” — flights, hotels, itineraries — to automatically generate a customized travel plan based on user preferences.
 
 This project is fully modular, making it easy to extend with new agents and capabilities.
