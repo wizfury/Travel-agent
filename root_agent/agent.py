@@ -1,8 +1,8 @@
 from google.adk.agents.llm_agent import Agent
 from google.adk.agents import ParallelAgent,SequentialAgent, LlmAgent
-from flight_agent.agent import flight_agent
-from hotel_agent.agent import hotel_agent
-from itiniary_agent.agent import itiniary_agent
+from Subagents.flight_agent.agent import flight_agent
+from Subagents.hotel_agent.agent import hotel_agent
+from Subagents.itiniary_agent.agent import itiniary_agent
 
 research_team = ParallelAgent(
     name= "ResearchTeam",
